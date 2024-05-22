@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dbb22e904abbe8140bd7335347626b50
+  m_SerializeEntries:
+  - m_GUID: ad0993e5bd5c526419325f318d4155d1
+    m_Address: Assets/Prefab/normal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Road
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c49b868ce3fd8d14ca4de02b4a8d51eb
+    m_Address: Assets/Prefab/round.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CornerRoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f694c8035e24324595c9cb4d67e1222
+    m_Address: Assets/AssyncAssets/UI/Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3afa7e50d03871046b9f37e84dea4d28
+    m_Address: Assets/AssyncAssets/UI/Panel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46eb81e8259a5794a9aede42a66d540c
+    m_Address: Assets/AssyncAssets/3D/mountain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mountain
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 267c616dd7251de468d3b98facff8717
+    m_Address: Assets/AssyncAssets/Data/BoardData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Level1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30277985ad727204e9ab19975daf3684
+    m_Address: Assets/AssyncAssets/3D/Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Water
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f6a4a9b9c564e4898d5def47a29be6
+    m_Address: Assets/AssyncAssets/UI/DiceBackground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e9c53286b65b514ab6ae24bac8f37b0
+    m_Address: Assets/AssyncAssets/3D/Pawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pawn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d511f920d05fd5418f03a693227f796
+    m_Address: Assets/AssyncAssets/3D/Dices.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dice
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da5bf152f0d472e47b9d64df1553c496
+    m_Address: Assets/AssyncAssets/UI/DicePopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 298bb6d456b828449b038d2231102b65
+    m_Address: Assets/AssyncAssets/UI/CustomDiceButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4c4bdea3793d03e4083d08c5ac6da9a6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 096fd866d4efb234eaa64e3746b04f85, type: 2}
+    - {fileID: 11400000, guid: 41997782e8435394c89a839a498883f2, type: 2}

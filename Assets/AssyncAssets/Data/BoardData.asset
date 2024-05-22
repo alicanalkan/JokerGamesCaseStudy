@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15bea6e0f9fd884488204db4c0ff04ad, type: 3}
+  m_Name: BoardData
+  m_EditorClassIdentifier: 
+  boardWidth: 7
+  boardHeight: 5
+  tileAssetTag: Road
+  cornerTileAssetTag: CornerRoad
+  environmentObjects:
+  - Mountain
+  TileData:
+  - tileType: 2
+    positionX: 0
+    positionY: 0
+    positionZ: 0
+    rotation: 90
+  - tileType: 1
+    positionX: 1
+    positionY: 0
+    positionZ: 0
+    rotation: 0
+  - tileType: 1
+    positionX: 2
+    positionY: 0
+    positionZ: 0
+    rotation: 0
+  - tileType: 1
+    positionX: 3
+    positionY: 0
+    positionZ: 0
+    rotation: 0
+  - tileType: 1
+    positionX: 4
+    positionY: 0
+    positionZ: 0
+    rotation: 0
+  - tileType: 1
+    positionX: 5
+    positionY: 0
+    positionZ: 0
+    rotation: 0
+  - tileType: 2
+    positionX: 6
+    positionY: 0
+    positionZ: 0
+    rotation: 0
+  - tileType: 1
+    positionX: 6
+    positionY: 0
+    positionZ: 1
+    rotation: 90
+  - tileType: 1
+    positionX: 6
+    positionY: 0
+    positionZ: 2
+    rotation: 90
+  - tileType: 1
+    positionX: 6
+    positionY: 0
+    positionZ: 3
+    rotation: 90
+  - tileType: 2
+    positionX: 6
+    positionY: 0
+    positionZ: 4
+    rotation: -90
+  - tileType: 1
+    positionX: 5
+    positionY: 0
+    positionZ: 4
+    rotation: 0
+  - tileType: 1
+    positionX: 4
+    positionY: 0
+    positionZ: 4
+    rotation: 0
+  - tileType: 1
+    positionX: 3
+    positionY: 0
+    positionZ: 4
+    rotation: 0
+  - tileType: 1
+    positionX: 2
+    positionY: 0
+    positionZ: 4
+    rotation: 0
+  - tileType: 1
+    positionX: 1
+    positionY: 0
+    positionZ: 4
+    rotation: 0
+  - tileType: 2
+    positionX: 0
+    positionY: 0
+    positionZ: 4
+    rotation: -180
+  - tileType: 1
+    positionX: 0
+    positionY: 0
+    positionZ: 3
+    rotation: 90
+  - tileType: 1
+    positionX: 0
+    positionY: 0
+    positionZ: 2
+    rotation: 90
+  - tileType: 1
+    positionX: 0
+    positionY: 0
+    positionZ: 1
+    rotation: 90
